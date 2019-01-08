@@ -1,0 +1,9 @@
+name = gfz2009groy
+time = 2009-04-06 01:32:42.000
+latitude = 42.4
+longitude = 13.3
+magnitude = 6.2
+moment = 2.23872e+18
+depth = 10000
+region = Central Italy
+catalog = GEOFON
